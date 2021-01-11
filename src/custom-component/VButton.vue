@@ -1,6 +1,6 @@
 <template>
   <div class="v-button">
-    <button>{{ propValue }}</button>
+    <button class="v-button">{{ propValue }}</button>
   </div>
 </template>
 
